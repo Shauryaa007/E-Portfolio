@@ -1,3 +1,4 @@
+//asdfghjk
 import React from "react";
 import Banner from "./components/banner/Banner";
 import Contact from "./components/contact/Contact";

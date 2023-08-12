@@ -26,7 +26,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-        I am a student pursuing B-tech from KIET GROUP OF INSTITUTIONS in the computer science branch and looking forward to grabbing the job opportunities that match my skills and experience.
+        I'm currently a dedicated B.Tech student specializing in Computer Science at KIET Group Of Institutions. My ambition is to secure job opportunities that align seamlessly with my honed skills and burgeoning experience. 
         </p>
       </div>
      {/* Media */}

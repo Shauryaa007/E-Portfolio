@@ -15,19 +15,22 @@ const Experience = () => {
           <h2 className="text-4xl font-bold">Job Experience</h2> */}
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+          
+        <ResumeCard
+            title="React Developer"
+            subTitle="Tech BRJ - (July 2023 - August 2023)"
+            result="Remote"
+            des="• During my internship, I gained the opportunity to Develop an exciting project of a real-time Feedback Form using React JS Within 2 weeks.
+            •The main objective can be clarified as to allow users to provide feedback on of their experience 1 by 1 for our partner company"
+          />
+          
           <ResumeCard
             title="AMAZON | ML Summer School 2022"
             subTitle="1 July 2022- 30 July 2022"
-            result="Online"
+            result="Remote"
             des="
             This 6-week program provided me with a Basic understanding of various ML
             techniques, including regression, classification, clustering, and deep learning"
-          />
-          <ResumeCard
-            //title="Web Developer & Trainer"
-            //subTitle="Apple Developer Team - (2012 - 2016)"
-            result="coming soon"
-            //des="A popular destination with a growing number of highly qualified homegrown graduates, it's true that securing a role in Malaysia isn't easy."
           />
           <ResumeCard
             //title="Front-end Developer"
@@ -47,7 +50,7 @@ const Experience = () => {
           <ResumeCard
             title="IIPC KIET | 120+ Hours Of Online Training"
             subTitle="1 July 2021- 30 July 2021"
-            result="online"
+            result="Remote"
             des="• Completed this online web development training program, where I gained hands-on
             experience in HTML, CSS JavaScript."/>
           <ResumeCard
